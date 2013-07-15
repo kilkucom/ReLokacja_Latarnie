@@ -1,0 +1,11 @@
+--2013-07-15 17:47:40--  http://pl.wikiquote.org/wiki/Pawe%C5%82?action=raw
+Translacja pl.wikiquote.org (pl.wikiquote.org)... 208.80.154.227, 2620:0:861:ed1a::3
+Łączenie się z pl.wikiquote.org (pl.wikiquote.org)|208.80.154.227|:80... połączono.
+Żądanie HTTP wysłano, oczekiwanie na odpowiedź... 200 OK
+Długość: 805 [text/x-wiki]
+Zapis do: `wikitekst.txt'
+
+     0K                                                       100% 9,03M=0s
+
+2013-07-15 17:47:41 (9,03 MB/s) - zapisano `wikitekst.txt' [805/805]
+
